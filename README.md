@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Computer Vision App
 ```
-⬆️ (Replace above with your app's name)
+⬆️ This is the computer vision app.
 ```
 
 Description of the app ...
